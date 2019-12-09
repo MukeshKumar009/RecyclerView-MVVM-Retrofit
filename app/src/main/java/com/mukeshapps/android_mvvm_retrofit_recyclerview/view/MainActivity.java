@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private MovieArticleAdapter adapter;
     private ArrayList<Article> articleArrayList = new ArrayList<>();
     ArticleViewModel articleViewModel;
-
+    //Test git commit
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
